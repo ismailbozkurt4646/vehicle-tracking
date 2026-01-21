@@ -1,2 +1,5 @@
 flask
 firebase-admin
+Flask
+firebase-admin
+gunicorn
